@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.panel{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.formParticipantes{
+    margin-top: 20px;
+}
+
+.usuariosIngresados{
+    margin-top: 50px;
+}
+
+span{
+    font-size: 25px;
+}
+
+
+
+.tablaUsuarios{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.seleccionSorteo{
+    margin-top: 30px;
+}
+
+h2{
+    margin-top: 100px;
+    text-align: center;
+}
+
+

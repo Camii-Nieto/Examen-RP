@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "dni": 32658974
+    },
+    {
+        "nombre": "Luz",
+        "apellido": "Diaz",
+        "dni": 4529852
+    },
+    {
+        "nombre": "Nahuel",
+        "apellido": "Luna",
+        "dni": 3546461
+    },
+    {
+        "nombre": "Matias",
+        "apellido": "Sanchez",
+        "dni": 32658974
+    },
+    {
+        "nombre": "Carla",
+        "apellido": "Lopez",
+        "dni": 7845535
+    },
+    {
+        "nombre": "Josefina",
+        "apellido": "Aguilera",
+        "dni": 3545685
+    },
+    {
+        "nombre": "Catalina",
+        "apellido": "Salazar",
+        "dni": 87458464
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Tabare",
+        "dni": 1764696
+    },
+    {
+        "nombre": "Lucia",
+        "apellido": "Alfonso",
+        "dni": 8351213
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Juarez",
+        "dni": 32658974
+    }
+]
